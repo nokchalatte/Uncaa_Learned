@@ -2,7 +2,7 @@
 Learned is a Microsoft Power Platform-based application to help teachers collaborate and personalize their lectures to students' needs.
 
 ## Background and Motivation
-Despite the amount of classroom management applications in the market, only a few are focused on collaborative evaluation among teachers and building an inclusive learning environment for all students. Adding more sophisticated features usually require considerable coding skills, so many teachers without a strong technical background are struggling to meet their teaching preferences. By leveraging the features of Microsoft Power Platform, we present Learned, a low-code classroom management application that allows teachers to:
+Despite the amount of classroom management applications in the market, only a few are focused on collaborative evaluation among teachers and building an inclusive learning environment for all students. Adding more sophisticated features usually requires considerable coding skills, so many teachers without a strong technical background are struggling to meet their teaching preferences. By leveraging the features of Microsoft Power Platform, we present **Learned**, a low-code classroom management application that allows teachers to:
 1. Understand their students' strengths and weaknesses by combining observations from other teachers
 2. Streamline their assignment, grading, and feedback process, with appropriate automation for better efficiency
 3. Get a big picture of students' impression to classes, helping them adjust to their students' preferences and find specific points to improve
