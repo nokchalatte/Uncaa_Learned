@@ -11,7 +11,7 @@ Despite the amount of classroom management applications in the market, only a fe
 
 ![System overview diagram](images/overviewDiagram.png)
 
-Our system is backed by:
+### Our system is backed by:
 1. Microsoft Power Apps --> for low-code, secure, easy-to-maintain classroom management application
 2. Microsoft Power Automate --> for efficient automated flow with specific triggers
 3. Microsoft Power BI --> for word cloud generation from teachers' notes
@@ -28,11 +28,11 @@ Microsoft Power Automate allows us to automate the update of lists stored in Sha
 4. If you switch to the 'Teachers List' tab, you can see the list of teachers, the subject they are teaching, and their teaching hours.
 5. If you switch to the 'Feedback' tab, you can see the responses to the Forms feedback form from students.
 
-To update the word cloud,
+### To update the word cloud,
 1. While the SharePoint database can be updated real-time, the Power BI dataset needs to be refreshed manually. Head over to the [Power BI link](https://app.powerbi.com/groups/me/list?redirectedFromSignup=1) and login using the appropriate credentials.
 2. Click on the 'WordCloud' dataset and press 'Refresh' to refresh the data after updates to the SharePoint dataset are made. After refreshing, the word cloud will be automatically updated.
 3. Automatic updates to the Power BI dataset are available daily, but real-time updates can currently only be done manually using the steps above.
 
-To modify the lists directly,
+### To modify the lists directly,
 1. Head over to the [SharePoint Microsoft Lists link](https://kaistackr-my.sharepoint.com/personal/adeeb_islam8_kaist_ac_kr/_layouts/15/lists.aspx) and login using the appropriate credentials.
 2. Navigate to 'Teacher List' to update the list of teachers and 'Comment' to update students' observation notes.
