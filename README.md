@@ -22,7 +22,7 @@ Microsoft Power Automate allows us to automate the update of lists stored in Sha
 ![Automatic SharePoint update](images/uploadSharepoint.png)
 
 ## (Important) How to Run the Application
-1. Head over to our [Power Apps link](https://apps.powerapps.com/play/e/default-df2b0bb7-c131-4031-a8f8-1d718ad56a38/a/28237820-f897-482a-b273-b8cb704f2331?tenantId=df2b0bb7-c131-4031-a8f8-1d718ad56a38&source=portal&skipAppMetadata=true) and login using the appropriate credentials.
+1. Head over to our [Power Apps link](https://apps.powerapps.com/play/e/default-df2b0bb7-c131-4031-a8f8-1d718ad56a38/a/28237820-f897-482a-b273-b8cb704f2331?tenantId=df2b0bb7-c131-4031-a8f8-1d718ad56a38&source=portal&skipAppMetadata=true) and login using the appropriate credentials. Note: if the data is not loading directly, there might be some connection issues, so please refresh until everything shows up well.
 2. The 'Dashboard' tab is where you, as a teacher, can see the list of students in your class with compiled notes from various teachers. On the right side, a word cloud is provided to help you understand popular observation trends.
 3. You can click on the 'Add Note' button to generate a new note. The database in SharePoint will be updated automatically.
 4. If you switch to the 'Teachers List' tab, you can see the list of teachers, the subject they are teaching, and their teaching hours.
